@@ -61,4 +61,4 @@
 
 ![alt text](https://github.com/shivamwalke/Smart-Glasses-with-Blind-Assistance-System-Real-Time-Object-Detection-with-Voice-Alerts-/blob/main/Results/4.png)
 
-[![Watch the video](https://github.com/shivamwalke/Smart-Glasses-with-Blind-Assistance-System-Real-Time-Object-Detection-with-Voice-Alerts-/blob/main/Results/Smart-Glasses-with-Blind-Assistance-System-Real-Time-Object-Detection-with-Voice-Alerts.mp4)
+[![Watch the video](https://github.com/shivamwalke/Smart-Glasses-with-Blind-Assistance-System-Real-Time-Object-Detection-with-Voice-Alerts-/blob/main/Results/Smart-Glasses-with-Blind-Assistance-System-Real-Time-Object-Detection-with-Voice-Alerts.jpg)](https://github.com/shivamwalke/Smart-Glasses-with-Blind-Assistance-System-Real-Time-Object-Detection-with-Voice-Alerts-/blob/main/Results/Smart-Glasses-with-Blind-Assistance-System-Real-Time-Object-Detection-with-Voice-Alerts.mp4)
